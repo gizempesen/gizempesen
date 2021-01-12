@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gizempesen&layout=compact&theme=radical" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gizempesen)](https://github.com/gizempesen/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gizempesen)](https://github.com/gizempesen/gizempesen/github-readme-stats)
