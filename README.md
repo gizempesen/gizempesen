@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/gizempesen">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gizempesen&layout=compact&theme=radical" />
 </a>
+
+
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
+This text will be printed at most 5 times
+{{ LANGUAGE_TEMPLATE_END }}
