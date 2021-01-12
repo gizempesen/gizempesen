@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/gizempesen">
-  <img align="center" src="https://github-readme-stats.gizempesen.vercel.app/api/top-langs/?username=gizempesen&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gizempesen&layout=compact&theme=radical" />
 </a>
