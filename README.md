@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+### I am a passionate developer from turkey
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
