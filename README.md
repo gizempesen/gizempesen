@@ -3,6 +3,23 @@
 
 ### I am a passionate developer from turkey
 
+### My Challanges
+
+[<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
+[<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]
+
+<br>
+<br>
+
+### Connect with me
+
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="asdasd" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]
+
+<br>
+<br>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -24,3 +41,8 @@ Here are some ideas to get you started:
 
 
 ![Gizem's github stats](https://github-readme-stats.vercel.app/api?username=gizempesen&show_icons=true)
+[codewars]: https://www.codewars.com/users/gizempesen
+[hackerrank]: https://www.hackerrank.com/pesengizem
+[stackoverflow]: https://stackoverflow.com/users/11002959/gizem-pesen
+[gmail]: mailto:pesengizem@gmail.com
+[in]: https://www.linkedin.com/in/gizem-pesen-ba399218b/
