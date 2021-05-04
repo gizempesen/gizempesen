@@ -9,6 +9,10 @@
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]
 
+[codewars]: https://www.codewars.com/users/gizempesen
+[hackerrank]: https://www.hackerrank.com/pesengizem
+[stackoverflow]: https://stackoverflow.com/users/11002959/gizem-pesen
+
 <br>
 <br>
 
@@ -41,8 +45,5 @@ Here are some ideas to get you started:
 
 
 ![Gizem's github stats](https://github-readme-stats.vercel.app/api?username=gizempesen&show_icons=true)
-[codewars]: https://www.codewars.com/users/gizempesen
-[hackerrank]: https://www.hackerrank.com/pesengizem
-[stackoverflow]: https://stackoverflow.com/users/11002959/gizem-pesen
 [gmail]: mailto:pesengizem@gmail.com
 [in]: https://www.linkedin.com/in/gizem-pesen-ba399218b/
