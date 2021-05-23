@@ -8,7 +8,7 @@
 [<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]
-[<img align="left" alt="Sololearn" src=![solo](https://user-images.githubusercontent.com/37961587/119279167-a191b680-bc32-11eb-87c2-aa6a36711cd1.png) />][sololearn]
+[<img align="left" alt="Sololearn" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.codeforyoungs.com%2Fuseful-sites-for-code-learning-and-training%2F148&psig=AOvVaw1XYb1pVr9g-lCSMthpPns5&ust=1621896817614000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCAjs_y4PACFQAAAAAdAAAAABAv") />][sololearn]
 
 [codewars]: https://www.codewars.com/users/gizempesen
 [hackerrank]: https://www.hackerrank.com/pesengizem
