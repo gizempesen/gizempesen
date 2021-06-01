@@ -9,11 +9,13 @@
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]
 [<img align="left" alt="Sololearn" src="https://img.shields.io/badge/sololearn-1ABC9C?logo=SoloLearn&labelColor=000000&style=for-the-badge" />][sololearn]
+[<img align="left" alt="Kodluyoruz" src="https://img.shields.io/badge/Kodluyoruz-orange?logo=Kodluyoruz&labelColor=000000&style=for-the-badge" />][Kodluyoruz]
 
 [codewars]: https://www.codewars.com/users/gizempesen
 [hackerrank]: https://www.hackerrank.com/pesengizem
 [stackoverflow]: https://stackoverflow.com/users/11002959/gizem-pesen
 [sololearn]: https://www.sololearn.com/profile/5159787
+[Kodluyoruz] : https://www.sololearn.com/profile/5159787
 
 <br>
 <br>
