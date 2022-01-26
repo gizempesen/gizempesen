@@ -55,5 +55,4 @@ Here are some ideas to get you started:
 
 <h3>⚙️ GitHub Analytics</h3>
  <p>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gizempesen&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
-   <img src="https://github-profile-trophy.vercel.app/?username=gizempesen&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
  </p>
