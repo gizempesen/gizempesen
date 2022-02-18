@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=gizempesen&label=PROFILE+VIEWS)
 ### Hi there 👋
 
 
