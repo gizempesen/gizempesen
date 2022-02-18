@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-### I am a passionate developer from turkey
+### a passionate developer 
 
 ### My Challanges
 
