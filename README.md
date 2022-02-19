@@ -10,15 +10,14 @@
 
 [digitalocean]: https://www.digitalocean.com
 [googlecloud]: https://cloud.google.com
-
 <br>
 <br>
-
-### Database
-
+### Databases
 [<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />][mysql]
+[<img align="left" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />][postgresql]
 
 [mysql]: https://www.mysql.com
+[postgresql]: https://www.postgresql.org
 
 <br>
 <br>
