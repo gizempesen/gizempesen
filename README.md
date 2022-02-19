@@ -114,8 +114,5 @@
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gizempesen&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
- <p>   
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gizempesen&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" width="350"></a>
  </p>
