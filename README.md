@@ -6,8 +6,7 @@
 
 ### Languages
 
-[<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />][python]
-[python]: https://www.python.org
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 <br>
 <br>
