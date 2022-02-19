@@ -2,7 +2,7 @@
 ### Hi there 👋 I am a passionate developer 
 
 <details>
-  <summary>📃 Langeuages</summary>
+  <summary>Languages</summary>
 
 ### Languages
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -20,6 +20,9 @@
  
 </details>
  
+<details>
+  <summary>Frameworks</summary>
+  
 ### Frameworks
 
 ![ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -40,23 +43,43 @@
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
+</details>
+
+<details>
+  <summary>Cloud Platforms</summary>
+
 ### Cloud Platforms
 
 ![digitalocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  
+</details>
 
+<details>
+  <summary>Databases</summary>
+  
 ### Databases
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white")
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+ </details> 
+ 
+ <details>
+  <summary>Design</summary>
+  
 ### Design
 
 ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
+</details>  
+
+ <details>
+  <summary>My Challanges</summary>
+  
 ### My Challanges
 
 [<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
@@ -69,7 +92,9 @@
 [stackoverflow]: https://stackoverflow.com/users/11002959/gizem-pesen
 [sololearn]: https://www.sololearn.com/profile/5159787
 
+  
 <br></br>
+</details>  
 
 ### Connect with me
 
