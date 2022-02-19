@@ -2,16 +2,20 @@
 ### Hi there 👋 I am a passionate developer 
 
 ### Languages
+
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <br>
 <br>
+
 ### Cloud Platforms
+
 [<img align="left" alt="digitalocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=whte" />][digitalocean]
 [<img align="left" alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />][googlecloud]
 [digitalocean]: https://www.digitalocean.com
 [googlecloud]: https://cloud.google.com
 <br>
 <br>
+
 ### Databases
 [<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />][mysql]
 [<img align="left" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />][postgresql]
@@ -19,6 +23,7 @@
 [postgresql]: https://www.postgresql.org
 <br>
 <br>
+
 ### My Challanges
 [<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
@@ -30,6 +35,7 @@
 [sololearn]: https://www.sololearn.com/profile/5159787
 <br>
 <br>
+
 ### Connect with me
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="asdasd" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]
