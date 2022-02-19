@@ -4,10 +4,6 @@
 
 ### a passionate developer 
 
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-
-
-<i class="fa-brands fa-digital-ocean">
 
 ### My Challanges
 
