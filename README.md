@@ -4,6 +4,11 @@
 
 ### I am a passionate developer 
 
+### Languages
+
+[<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />][python]
+[python]: https://www.python.org
+
 ### Cloud Platforms
 [<img align="left" alt="digitalocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=whte" />][digitalocean]
 [<img align="left" alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />][googlecloud]
