@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-### a passionate developer 
+### I am a passionate developer 
 
 ### Cloud Platforms
 [<img align="left" alt="digitalocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=whte" />][digitalocean]
@@ -11,6 +11,11 @@
 [digitalocean]: https://www.digitalocean.com
 [googlecloud]: https://cloud.google.com
 
+### Database
+
+[<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />][mysql]
+
+[mysql]: https://www.mysql.com
 
 ### My Challanges
 
