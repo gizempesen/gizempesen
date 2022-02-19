@@ -4,6 +4,9 @@
 
 ### a passionate developer 
 
+
+<i class="fa-brands fa-digital-ocean">
+
 ### My Challanges
 
 [<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
