@@ -104,9 +104,6 @@
 [gmail]: mailto:pesengizem@gmail.com
 [in]: https://www.linkedin.com/in/gizem-pesen-ba399218b/
 
-<br></br>
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
