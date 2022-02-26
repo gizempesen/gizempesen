@@ -134,3 +134,5 @@ C Frameworks
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gizempesen&show_icons=true&count_private=true&theme=red" width="350"></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gizempesen&theme=red&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" width="350"></a>
  </p>
+ 
+ ![snake svg](https://github.com/gizempesen/gizempesen/blob/output/github-contribution-grid-snake.svg) <br>
