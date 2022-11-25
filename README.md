@@ -135,7 +135,4 @@ C Frameworks
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gizempesen&theme=red&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" width="350"></a>
  </p>
  
-  <a href="https://github.com/gizempesen">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizempesen&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
  
